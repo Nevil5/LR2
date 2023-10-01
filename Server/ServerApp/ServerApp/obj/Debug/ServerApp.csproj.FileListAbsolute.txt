@@ -1,0 +1,20 @@
+E:\SP\KSKS_Samples\Labs\Lab2\Server\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+E:\SP\KSKS_Samples\Labs\Lab2\Server\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.SuggestedBindingRedirects.cache
+E:\SP\KSKS_Samples\Labs\Lab2\Server\ServerApp\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+E:\SP\KSKS_Samples\Labs\Lab2\Server\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.cache
+E:\SP\KSKS_Samples\Labs\Lab2\Server\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+E:\SP\KSKS_Samples\Labs\Lab2\Server\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+E:\SP\KSKS_Samples\Labs\Lab2\Server\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+E:\SP\KSKS_Samples\Labs\Lab2\Server\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+E:\SP\KSKS_Samples\Labs\Lab2\Server\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+E:\SP\KSKS_Samples\Labs\Lab2\Server\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
+C:\DDMA Projects\3 Курс\КСКС\LR2\Server\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+C:\DDMA Projects\3 Курс\КСКС\LR2\Server\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+C:\DDMA Projects\3 Курс\КСКС\LR2\Server\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+C:\DDMA Projects\3 Курс\КСКС\LR2\Server\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+C:\DDMA Projects\3 Курс\КСКС\LR2\Server\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.SuggestedBindingRedirects.cache
+C:\DDMA Projects\3 Курс\КСКС\LR2\Server\ServerApp\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+C:\DDMA Projects\3 Курс\КСКС\LR2\Server\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.cache
+C:\DDMA Projects\3 Курс\КСКС\LR2\Server\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\DDMA Projects\3 Курс\КСКС\LR2\Server\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+C:\DDMA Projects\3 Курс\КСКС\LR2\Server\ServerApp\ServerApp\obj\Debug\ServerApp.pdb

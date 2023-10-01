@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3DIKHwxWjvClC1OaxyXcp/LBvef3x562eYS0gIUNBOowW1y/Nu+KyMbb+SjDgFCZg3hfc6dfbY/AACEOfd+9xg==",
+  "success": true,
+  "projectFilePath": "C:\\DDMA Projects\\3 Курс\\КСКС\\LR2\\Client\\MyClient\\MyClient\\MyClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robot\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\robot\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
